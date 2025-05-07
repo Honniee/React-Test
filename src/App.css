@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.name {
+  font-size: 20px;
+  color: #fff; /* white text */
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.name p {
+  text-align: center;
+  font-size: 24px;
+}
